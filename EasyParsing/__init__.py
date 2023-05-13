@@ -1,1 +1,1 @@
-from parse import *
+from EasyParsing import *

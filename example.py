@@ -1,6 +1,6 @@
 import asyncio
 
-from EasyParsing import parsing_image
+from EasyParsing.parse import parsing_image
 
 
 async def main():
